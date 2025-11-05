@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.petzone-koothattukulam.in/sitemap.xml
+
+
